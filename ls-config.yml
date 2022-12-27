@@ -1,0 +1,3 @@
+
+#configs/logstash/config.yml
+http.host: "0.0.0.0"
